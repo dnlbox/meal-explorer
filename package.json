@@ -1,0 +1,19 @@
+{
+  "name": "meal-explorer",
+  "version": "1.0.0",
+  "description": "Find your next meal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlbox/meal-explorer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnlbox/meal-explorer/issues"
+  },
+  "homepage": "https://github.com/dnlbox/meal-explorer#readme"
+}
